@@ -1,11 +1,11 @@
 const { Sequelize }= require('sequelize');
 
 const sequelize = new Sequelize(
-  'mhrs',
-  'mhrsweb',
-  'E3%f9+8yLv_3',
+  'devikweb_mhrs',
+  'devikweb_mhrsUser',
+  'iGFdbfWpI5Y}',
   {
-    host: '207.180.232.121',
+    host: '185.32.190.4',
     dialect: 'postgres',
     port: 5432,
   }
